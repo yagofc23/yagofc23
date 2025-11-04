@@ -1,15 +1,17 @@
 # 👋 Olá, eu sou Yago Fernandes da Costa!
 
-Bem-vindo(a) ao meu portfólio no GitHub! Sou um desenvolvedor web focado em criar aplicações funcionais e intuitivas, com um interesse especial em **Python (Flask)** e **Frontend moderno**.
+Bem-vindo(a) ao meu portfólio no GitHub! Sou um desenvolvedor web focado em criar aplicações funcionais e intuitivas, com um interesse especial em **Python (Flask)** e **Frontend (HTML/CSS)**.
 
 Estou sempre aprendendo, construindo e buscando formas de transformar ideias criativas em código limpo e eficiente.
+
+![Um banner do Death Note](https://media.giphy.com/media/du3J3BYNQxXG0/giphy.gif)
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-* 🐍 Sou um entusiasta de **Python**,izando o framework **Flask** para construir backends e APIs.
-* 🎨 Tenho um olhar apurado para o frontend, trabalhando com **HTML5**, **CSS3** e **JavaScript** para criar interfaces que sejam bonitas e fáceis de usar.
+* 🐍 Sou um entusiasta de **Python**, utilizando o framework **Flask** para construir backends e APIs.
+* 🎨 Tenho um olhar apurado para o frontend, trabalhando com **HTML5** e **CSS3** para criar interfaces que sejam bonitas e fáceis de usar.
 * 🚀 Estou ativamente buscando oportunidades (júnior ou freelance) para aplicar minhas habilidades, colaborar em projetos desafiadores e crescer como desenvolvedor.
 * 💼 Também estou disponível para projetos na plataforma [**Workana**](https://www.workana.com/freelancer/d4440ffe87435b6eb570819b96637f8e).
 
@@ -22,7 +24,6 @@ Estou sempre aprendendo, construindo e buscando formas de transformar ideias cri
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -37,7 +38,7 @@ Aqui estão alguns projetos que desenvolvi para praticar minhas habilidades:
 
 ### 1. 📓 Projeto Death Note (Frontend)
 * **Descrição:** Um projeto web (app de tarefas ou landing page) totalmente estilizado com a temática do anime Death Note. Foi um ótimo exercício de HTML semântico e CSS avançado.
-* **Tecnologias:** HTML5, CSS3, JavaScript.
+* **Tecnologias:** HTML5, CSS3.
 * **Foco:** Prática de UI/UX, design responsivo e manipulação de fontes customizadas.
 * **[🚀 Ver ao Vivo](https://yagofc23.github.io/Death-Note-online)**
 * **[🔗 Ver Repositório](https://github.com/yagofc23/Death-Note-online)**
