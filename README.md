@@ -4,9 +4,6 @@ Bem-vindo(a) ao meu portfólio no GitHub! Sou um desenvolvedor web focado em cri
 
 Estou sempre aprendendo, construindo e buscando formas de transformar ideias criativas em código limpo e eficiente.
 
-![Um banner legal de código ]
-(https://media.giphy.com/media/du3J3BYNQxXG0/giphy.gif)
-
 ---
 
 ## 👨‍💻 Sobre Mim
