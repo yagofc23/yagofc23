@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Yago Fernandes da Costa!
 
-Bem-vindo(a) ao meu portfólio no GitHub! Sou um desenvolvedor web focado em criar aplicações funcionais e intuitivas, com um interesse especial em **Python (Flask)** e **Frontend (HTML/CSS)**.
+Bem-vindo(a) ao meu portfólio no GitHub! Sou um desenvolvedor web focado em criar aplicações funcionais e intuitivas, com um interesse especial em **Python (Django)** e **Frontend (HTML/CSS)**.
 
 Estou sempre aprendendo, construindo e buscando formas de transformar ideias criativas em código limpo e eficiente.
 
@@ -8,7 +8,7 @@ Estou sempre aprendendo, construindo e buscando formas de transformar ideias cri
 
 ## 👨‍💻 Sobre Mim
 
-* 🐍 Sou um entusiasta de **Python**, utilizando o framework **Flask** para construir backends e APIs.
+* 🐍 Sou um entusiasta de **Python**, utilizando o framework **Django** para construir backends e APIs.
 * 🎨 Tenho um olhar apurado para o frontend, trabalhando com **HTML5** e **CSS3** para criar interfaces que sejam bonitas e fáceis de usar.
 * 🚀 Estou ativamente buscando oportunidades (júnior ou freelance) para aplicar minhas habilidades, colaborar em projetos desafiadores e crescer como desenvolvedor.
 * 💼 Também estou disponível para projetos na plataforma [**Workana**](https://www.workana.com/freelancer/d4440ffe87435b6eb570819b96637f8e).
@@ -19,7 +19,7 @@ Estou sempre aprendendo, construindo e buscando formas de transformar ideias cri
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   
