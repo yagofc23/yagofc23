@@ -33,14 +33,14 @@ Aqui estão alguns projetos que desenvolvi para praticar minhas habilidades:
 
 ### 1. 🎯 Meu Portfólio Pessoal
 * **Descrição:** Meu portfólio pessoal desenvolvido para showcase dos meus projetos e habilidades como desenvolvedor. Apresenta uma interface moderna e responsiva.
-* **Tecnologias:** HTML5, CSS3, JavaScript.
+* **Tecnologias:** HTML5, CSS3.
 * **Foco:** Design responsivo, UI/UX moderno e apresentação profissional.
 * **[🚀 Ver ao Vivo](https://yagofc23.github.io/)**
 * **[🔗 Ver Repositório](https://github.com/yagofc23/yagofc23.github.io)**
 
-### 2. 🔗 Gerenciador de Links (Full-Stack com Django)
+### 2. 🔗 Gerenciador de Links (Full-Stack com Flask)
 * **Descrição:** Uma aplicação web full-stack que permite ao usuário gerenciar ou encurtar links (um "Linktree" ou "Bit.ly" pessoal).
-* **Tecnologias:** Python, Django (para o backend/API) e HTML/CSS (para o frontend).
+* **Tecnologias:** Python, Flask (para o backend/API) e HTML/CSS (para o frontend).
 * **Foco:** Criação de uma API RESTful, operações CRUD e integração backend-frontend.
 * **[🚀 Ver ao Vivo](https://yagofc2305.pythonanywhere.com/)**
 * **[🔗 Ver Repositório](https://github.com/yagofc23/gerenciador-de-link)**
