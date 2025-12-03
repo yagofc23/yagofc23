@@ -50,7 +50,7 @@ Aqui estão alguns projetos que desenvolvi para praticar minhas habilidades:
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagofc23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Yago Fernandes da Costa"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yagofc23&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Yago Fernandes da Costa"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagofc23&layout=compact&langs_count=8&theme=radical" alt="Linguagens Mais Usadas por Yago Fernandes da Costa"/>
 </p>
